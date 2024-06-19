@@ -19,7 +19,7 @@ body{
     cursor: pointer;
 }
 
-img[alt="Foto de Perfil"] {
+img[alt="Foto de perfil"] {
     border-radius: 25px;
 }
 
@@ -27,6 +27,10 @@ li {
     margin: 10px;
 }
 
+a[href]{
+    color: #202124;
+    text-decoration: none;
+}
 
 header ul {
     list-style-type: none;
