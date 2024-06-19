@@ -73,7 +73,6 @@ En este proyecto se hizo uso de:
 * CSS3.
 * Visual Studio Code.
 * Live Server Extension (VS Code).
-
-
-
+<br>
+<br>
 Este proyecto fue desarrollado por Majo Sánchez en el Bootcamp de TECNOLOchicas PRO. Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de majitosanz18@gmail.com o creando un issue en el repositorio. ¡Gracias, y suerte!
