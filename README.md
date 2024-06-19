@@ -26,6 +26,20 @@ La idea de este proyecto es poder ayudar e inspirar a los demás. Ya sea que sea
 
 ## 2. Objetivos de aprendizaje
 
+El proyecto "Clon de Google" está diseñado para ayudarte a alcanzar los siguientes objetivos de aprendizaje:
+
+** Práctica con HTML y CSS: Familiarízate con la estructura básica de un sitio web utilizando HTML5 y aprende a dar estilo a elementos HTML utilizando CSS3.
+
+** Responsividad y Diseño Adaptativo: Aprende a crear un diseño que se adapte de manera efectiva a diferentes tamaños de pantalla utilizando técnicas de diseño responsivo.
+
+** Control de Versiones y Colaboración: Practica el uso de Git y GitHub para controlar versiones de tu proyecto y colaborar con otros desarrolladores.
+
+** Personalización y Creatividad: Experimenta con la personalización del diseño, los colores, las fuentes y los elementos interactivos para añadir tu propio toque único al proyecto.
+
+** Desarrollo de Proyectos Pequeños: Desarrolla habilidades en la creación de proyectos web pequeños desde cero, aplicando buenas prácticas de desarrollo y organización de archivos.
+
+Este proyecto no solo te ayudará a mejorar tus habilidades técnicas en desarrollo web, sino que también te proporcionará una base sólida para explorar y expandir tu conocimiento en el diseño y la implementación de interfaces web modernas y efectivas. 
+
 ## 3. ¿Qué se construyó?
 
 ## 4. ¿Cómo se construyó?
