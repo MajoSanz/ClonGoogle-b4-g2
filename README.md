@@ -11,7 +11,7 @@ El proyecto está diseñado para fines educativos y no tiene funcionalidad de b�
 * [3. ¿Qué se construyó?]
 * [4. ¿Cómo se construyó?]
 * [5. Link del proyecto]
-* [6. Captura de pantalla]
+* [6. Captura de pantalla](https://github.com/MajoSanz/ClonGoogle-b4-g2/blob/main/README.md#6-captura-de-pantalla)
 * [7. Herramientas utilizadas](https://github.com/MajoSanz/ClonGoogle-b4-g2/blob/main/README.md#7-herramientas-utilizadas)
 
 ****
