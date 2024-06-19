@@ -5,17 +5,25 @@ Primero va el objetivo:
 -->
 
 <!---
-índice: Objetivo, evidencia o demostración (link a el proyecto ya en internet), qué construimos, tecnologías, requisitos
+Indice: Objetivo, Evidencia o demostración (link a el proyecto ya en internet), Qué construimos, Tecnologías, Requisitos 
 -->
 
-<!---
+<!-- 
 Evidencia, capturas de pantalla, el link al proyecto.
 -->
 
-<!---
-Descripción del proyecto, cómo se construyó.
+
+
+<!-- 
+Descripción del proyecto, cómo se contruyó.
 -->
 
-<!---
-Listar las herramientas: ej. (HTML, CSS, JS, Bootstrap)
+
+<!-- 
+Listan las herramientas: ej (HTML, CSS, JS, Bootstrap, Typewriter JS)
+-->
+
+
+<!-- 
+Pasos para instalar su proyecto y correrlo o puedes agregar los créditos del proyecto.
 -->
