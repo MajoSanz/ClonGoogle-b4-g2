@@ -64,7 +64,7 @@ La idea de este proyecto es poder ayudar e inspirar a los demás. ¡Gracias por 
 
 ## 6. Captura de pantalla
 
-![Clon de Google](Images/.png)
+![Clon de Google](Images/Capturagoogle.png)
 
 ## 7. Herramientas utilizadas
 
