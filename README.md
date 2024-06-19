@@ -6,7 +6,7 @@ El proyecto está diseñado para fines educativos y no tiene funcionalidad de b�
 
 ## Índice
 
-* Introducción
+* [1. Introducción] ()
 * Objetivos de aprendizaje
 * ¿Qué se construyó?
 * ¿Cómo se construyó?
