@@ -42,7 +42,19 @@ Este proyecto no solo te ayudará a mejorar tus habilidades técnicas en desarro
 
 ## 3. ¿Qué se construyó?
 
+Se construyó un clon simple de la página principal de búsqueda de Google. El proyecto replica la interfaz de usuario básica de la página de inicio de Google utilizando HTML y CSS. Incluye una barra de búsqueda centrada, botones funcionales de búsqueda ("Buscar con Google" y "Voy a tener suerte"), y un diseño responsivo que se adapta a diferentes tamaños de pantalla.
+
 ## 4. ¿Cómo se construyó?
+
+El clon de Google se construyó utilizando las siguientes tecnologías y metodologías:
+
+- HTML5: Se utilizó para estructurar el contenido de la página, incluyendo la barra de búsqueda y los botones.
+
+- CSS3: Se empleó para dar estilo a los elementos HTML y para crear un diseño similar al de la página de inicio de Google. Se utilizó CSS para establecer la disposición de los elementos, el tamaño de la fuente, los colores y los efectos visuales.
+
+- Diseño Responsivo: Se aseguró de que el diseño fuera adaptable utilizando media queries en CSS para ajustar el diseño y el tamaño de los elementos según el tamaño de la pantalla del dispositivo.
+
+- Metodología de Desarrollo: Se siguió una metodología incremental, comenzando por la estructura básica del HTML, aplicando estilos CSS paso a paso para lograr la apariencia deseada, y luego agregando interactividad con JavaScript de manera progresiva.
 
 ## 5. Link del proyecto
 
@@ -57,10 +69,11 @@ La idea de este proyecto es poder ayudar e inspirar a los demás. ¡Gracias por 
 ## 7. Herramientas utilizadas
 
 En este proyecto se hizo uso de:
-* HTML5: Para estructurar el contenido de la página.
-* CSS3: Para diseñar y dar estilo a la página.
-* Visual Studio Code: Un editor de código fuente que incluye soporte para depuración, control de versiones, y más.
-* Live Server Extension (VS Code): Para ejecutar un servidor local y ver los cambios en tiempo real.
+* HTML5.
+* CSS3.
+* Visual Studio Code.
+* Live Server Extension (VS Code).
+
 
 
 Este proyecto fue desarrollado por Majo Sánchez en el Bootcamp de TECNOLOchicas PRO. Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de majitosanz18@gmail.com o creando un issue en el repositorio. ¡Gracias, y suerte!
