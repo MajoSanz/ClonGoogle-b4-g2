@@ -1,6 +1,6 @@
 # Clon de Google
 
-Este proyecto es un clon simple de la página principal de búsqueda de Google. El propósito de este proyecto es recrear la interfaz de usuario básica de la página de inicio de Google utilizando HTML, CSS y JavaScript. 
+Este proyecto es un clon simple de la página principal de búsqueda de Google. El propósito de este proyecto es recrear la interfaz de usuario básica de la página de inicio de Google utilizando HTML y CSS. 
 
 El proyecto está diseñado para fines educativos y no tiene funcionalidad de búsqueda real.
 
