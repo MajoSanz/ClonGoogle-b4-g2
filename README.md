@@ -6,7 +6,7 @@ El proyecto está diseñado para fines educativos y no tiene funcionalidad de b�
 
 ## Índice
 
-* [1. Introducción](https://github.com/MajoSanz/ClonGoogle-b4-g2/tree/main#1introduccion)
+* [1. Introducción](https://github.com/MajoSanz/ClonGoogle-b4-g2/blob/main/README.md#1-introducci%C3%B3n))
 * Objetivos de aprendizaje
 * ¿Qué se construyó?
 * ¿Cómo se construyó?
